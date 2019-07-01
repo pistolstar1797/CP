@@ -1,0 +1,8 @@
+INPUT
+mazeTestInput_asdfjpj.txt
+OUTPUT
+mazeTestOutput_asdfojjo.txt
+ARGUMENTS
+mazeTestInput_asdfjpj.txt mazeTestOutput_asdfojjo.txt
+NAMES
+Maze
