@@ -1,0 +1,5 @@
+1,R,Nobrand 8GB,95000,2
+2,C,Nobrand333,200000,3
+3,C,Nobrand334,250000,1
+4,P,Nobrand-700W,85000,1
+5,G,NobrandXT,500000,2

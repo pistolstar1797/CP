@@ -1,0 +1,8 @@
+E,C,Nobrand333,1
+I,G,NobrandXTC,650000,3
+S,G,NobrandXTC,3
+I,M,Nobrand_Z700,190000,1
+E,M,Nobrand_Z700,1
+S,R,Nobrand 8GB,2
+I,R,Nobrand 8GB,99000,1
+S,C,Nobrand335,1
