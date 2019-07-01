@@ -1,0 +1,10 @@
+I,C,abc,444,5
+S,C,cake,1
+S,G,LEMON,6
+E,P,quoTE,5
+I,M,ABC,7,2
+I,R,quoTE,2,90
+S,C,abc,8
+S,G,LEMON,6
+E,P,quoTE,1
+I,R,,3,1

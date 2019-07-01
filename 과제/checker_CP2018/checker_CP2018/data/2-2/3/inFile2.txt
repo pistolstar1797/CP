@@ -1,0 +1,9 @@
+dck,0110
+dcd,0111
+dk,1000
+psc,0010
+paa,0011
+paqq,0100
+psku,0000
+pskp,0001
+paqa,0101

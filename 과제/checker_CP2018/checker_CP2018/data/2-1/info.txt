@@ -1,0 +1,6 @@
+INPUT
+input.txt//stock.txt//tx.txt
+OUTPUT
+stock.txt//tx.txt
+NAMES
+Warehouse

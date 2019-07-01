@@ -1,0 +1,6 @@
+INPUT
+input.txt//dictionary.txt
+OUTPUT
+output.txt
+NAMES
+Compression
